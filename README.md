@@ -3,4 +3,6 @@ During college life, students often share their notes through social media platf
 
 # Examples
 ![image](https://github.com/charan-613/Automatic_handwritten_notes_cleaner/assets/92849706/b8c88723-b907-4768-87fd-6a728ceee0c2)
+
+
 ![image](https://github.com/charan-613/Automatic_handwritten_notes_cleaner/assets/92849706/aa3b37fa-497f-44d2-bfdd-76543dc43634)
