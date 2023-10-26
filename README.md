@@ -5,8 +5,8 @@ During college life, students often share their notes through social media platf
 Python <br />
 Keras <br />
 Tensorflow <br />
-CNN
-Argparse
+CNN <br />
+Argparse <br />
 Imutils
 
 # Examples
