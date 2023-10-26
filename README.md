@@ -2,9 +2,9 @@
 During college life, students often share their notes through social media platforms. However, after the completion of sem, manually deleting these shared images can be a time-consuming task. To address this issue, I've made a system that can automatically detect and remove exam notes—photos taken with mobile cameras—from the shared content.
 
 # Technologies Used
-Python
-Keras
-Tensorflow
+Python <br />
+Keras <br />
+Tensorflow <br />
 CNN
 Argparse
 Imutils
